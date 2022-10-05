@@ -38,4 +38,4 @@ console.log("I\'m'")
 console.log("Hello World!" + "This is awesome!");
 console.log("Jackie".length); //6
 console.log("Jackie 8        ".length); //16
-console.log("Pan-seared Chicken");
+console.log("Pan-seared chicken");
